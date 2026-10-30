@@ -6,6 +6,10 @@ A practical, expandable library for AI product photography, advertising, ecommer
 
 > **Syntax notice:** Slash codes below are a personal shorthand system, not universal native commands. Expand them into natural-language instructions before pasting into an image tool. Tool-specific parameters differ. Never assume `/ar`, `/style` or other codes are accepted by every platform.
 
+## Advanced companion guide
+
+Explore [80 additional detailed advertising prompt recipes, QA instructions and a complete production workflow](ADVANCED-AD-PROMPT-PLAYBOOK.md).
+
 ## Quick start
 
 1. Upload an accurate reference photo of the actual product, preferably front, side, back and detail views.
