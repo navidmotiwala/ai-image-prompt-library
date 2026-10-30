@@ -34,6 +34,7 @@ Subject + intent + environment + composition + lighting + material + camera + pa
 
 ## Additional guides
 
+- [Complete end-to-end image production workflow](guides/image-production-workflow.md)
 - [How to write reliable prompts](guides/prompt-engineering.md)
 - [Quality control and troubleshooting](guides/quality-control.md)
 - [Creative trends and practical applications](guides/creative-trends-2026.md)
